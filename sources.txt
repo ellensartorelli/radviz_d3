@@ -1,9 +1,10 @@
 http://orange.biolab.si/docs/latest/widgets/rst/visualize/radviz.html
 	kick off point
-http://www.agocg.ac.uk/reports/visual/casestud/brunsdon/radviz.html
+http://www.agocg.ac.uk/reports/visual/casestud/brunsdon/radviz.htm
 	math
 http://www.cs.middlebury.edu/~candrews/classes/infovis/data/census.csv
 	andrew's census data
 http://www.cs.middlebury.edu/~candrews/classes/infovis/assignments/assignment4.html
 	page where find andrew's census data (maybe unnecessary)
-	
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference
+	javascript reference (maybe unnecessary)	
